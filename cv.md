@@ -5,7 +5,7 @@
 * diskord: Maria(@marybelousova)
 ## Summary 
 I'm a grad of Grace Hooper Program with background in Physics and Project management. I'm passionate about technology that positively affects lives of people and I enjoy finding solutions to difficult problems.
-### Skils
+### Skills
 * JavaScript
 * Node.js
 * Express
