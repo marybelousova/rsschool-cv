@@ -6,15 +6,15 @@
 ## Summary 
 I'm a grad of Grace Hooper Program with background in Physics and Project management. I'm passionate about technology that positively affects lives of people and I enjoy finding solutions to difficult problems.
 ### Skils
-* CSS
-* HTML
 * JavaScript
-* Git
-* React
-* Redux
-* Webpack
 * Node.js
 * Express
+* React
+* Redux
+* CSS
+* HTML
+* Git
+* Webpack
 * MongoDB
 * Sequelize 
 ### Education
@@ -32,7 +32,6 @@ I'm a grad of Grace Hooper Program with background in Physics and Project manage
 * Performed product demonstrations and managed communication with clients to collect data on product improvement and supported inquiries on product, services and usability features
 * Budgeted projects, planned and tracked schedule of projects and financing, risk management
 ### Code examples
-http://github.com/marybelousova - automatic!
 [GitHub](http://github.com/marybelousova)
 ### Languges 
 * English - Advance
