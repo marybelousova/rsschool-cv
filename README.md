@@ -18,12 +18,11 @@ Software Engineer specializing in full stack development with additional backgro
 * MongoDB
 * Sequelize 
 ### Education
-* **Bachelor Degree, Physics and Engineering with honors** | State University of Krasnodar, Russia | 2007 
-* **Web Full Stack Web Development Program** | Grace Hopper Program at Fullstack Academy | 2020 
+* Bachelor Degree, Physics and Engineering with honors** | State University of Krasnodar, Russia | 2007 
+* Web Full Stack Web Development Program** | Grace Hopper Program at Fullstack Academy | 2020 
 * Certificate of Data Architecture Principles, Data Structure, and SQL | Cooper Union | 2019 
 ### TECHNICAL PROJECTS
-##### **Software Engineer | LocalCoding | https://localcoding.us**
-* E-learning platform to practice coding skills, with customer support for over 2K users
+##### **Software Engineer | LocalCoding | https://localcoding.us | E-learning platform to practice coding skills, with customer support for over 2K users
 * Developed a new responsive web-based user interface with a goal system OKR (Objectives and Key Results) with MERN (MongoDB, Express.js, React, Node.js) stack to keep users motivated, thus increasing user activity by 7%.
 * Developed functionality to allow for creation of goals, tasks and comments with ability to edit, update, track progress.
 * Designed application using mockups with Figma, utilized Mongoose to design database schema; coded database logic.
